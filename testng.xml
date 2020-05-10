@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CRM Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/G S Sastry/Axone Workspace/Framework">
+        <classes>
+            <class name="tests.LaunchLoginTest"></class>
+            <class name="tests.HomePageTest"></class>
+            <class name="tests.ContactsPageTest"></class>
+
+
+        </classes>
+    </test>
+</suite>
